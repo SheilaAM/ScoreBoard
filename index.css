@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: navy;
+    
+     
+}
+
+.home {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 100px;
+    margin: 20px;
+    
+}
+
+.guest{
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 100px;
+    margin: 20px;
+    
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+button {
+    background: none;
+    border-color: lightblue;
+    color: white;
+    
+}
+
+
